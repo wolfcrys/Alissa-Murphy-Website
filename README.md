@@ -1,6 +1,2 @@
-
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+# Welcome to Alissa Murphy's Resume Website
+![Alissa's Website Screencap](https://i.imgur.com/5L9Tz0i.jpg)
